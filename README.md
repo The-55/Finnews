@@ -1,4 +1,4 @@
-## PROJECT : REAL-TIME FINANCIAL NEWS SENTIMENT ANALYSIS AND IMPACT FORECASTING
+### PROJECT : REAL-TIME FINANCIAL NEWS SENTIMENT ANALYSIS AND IMPACT FORECASTING
 
 ## 1. Context
 Financial markets react rapidly to news — earnings reports, mergers, geopolitical events, or product launches can trigger sudden price movements.
@@ -37,3 +37,4 @@ The main goal is to develop an AI-powered system that:
 3. Predicts a numerical estimate of the short-term price impact (e.g., +2.5% or -1.3% within the next day).
 
 4. Displays results in an interactive dashboard for easy interpretation.
+
